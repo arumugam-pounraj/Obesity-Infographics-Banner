@@ -1,0 +1,138 @@
+.container{
+    margin: auto;
+    width: 1000px;
+    height: 900px;
+    box-sizing: border-box;
+}
+
+.leftContainer{
+    width: 45%;
+    box-sizing: border-box;
+    height: 100vh;
+    padding: 10px;
+    float: left;
+}
+
+.separator{
+    width: 5%;
+    box-sizing: border-box;
+    height: 100vh;
+    float: left;
+    border-left: 2px dotted #19AEC2;
+    margin-left: 20px;
+}
+
+.rightContainer{
+    width: 45%;
+    box-sizing: border-box;
+    height: 100vh;
+    float: left;
+}
+
+.title{
+    text-align: center;
+    color: #19AEC2;
+    font-size: 32px;
+    padding: 0px;
+    margin-top: 0px;
+    
+}
+
+.description{
+    text-align: center;
+    color: #8F8F8F;
+}
+
+.ribbon{
+    position: relative; 
+}
+
+.ribbonImg{
+    max-width: 100%;
+    position: absolute;
+}
+
+.ribbonText{
+    position: absolute;
+    margin: auto;
+    margin-left: 125px;
+    margin-top: 7px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.contentOne{
+    margin-top: 60px;
+    
+}
+
+.contentOneImage{
+    position: absolute;
+    float: right;
+    margin-top: 15px;
+}
+
+ h3{
+    color: #3D6176;
+    font-size: 24px;
+    margin: 0px;
+   
+}
+
+.contentText{
+    color: #19AEC2;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.contentText{
+    float: left;
+}
+
+.subContent{
+    margin-left: 100px;
+}
+
+.snacksPortion{
+    display: inline;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+
+.contentTwo{
+    margin-top: 110px;            
+}
+.contentTwoText{
+    margin-top: 150px;    
+
+}
+
+.ribbonTwo{
+    margin-top: 110px;
+}
+
+h5{
+    color: #19AEC2;
+    margin: 0;
+    display: inline;
+}
+
+.percentDtl{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.circle{
+    display: inline;
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border-color: #2C5871;
+    border: 2px solid #2C5871;
+}
+
+.contentFour{
+    position: relative;
+}
